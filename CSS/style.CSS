@@ -1,0 +1,131 @@
+.container{
+    width: 1280px;
+    margin: auto;
+}
+/* ჰედერი */
+header{
+    width: 1280px;
+}
+
+
+.opening{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 94px;
+    margin-left: 44px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.nav{
+    display: inline-block;
+    margin: 63px 193px 61px 74px;
+    vertical-align: middle;
+}
+
+
+.blog{
+    font-size: 18px;
+    color: #7F7F7F;
+    display: inline-block;
+    font-family: "Brandon Grotesque Thin";
+}
+
+.blog1{
+    font-size: 18px;
+    color: #7F7F7F;
+    display: inline-block;
+    margin-left: 72px;
+}
+
+.icon{
+    margin-left: 193px;
+}
+
+/* ძირითადი ნაწილი */
+section{
+    width: 1280px;
+    background-color: #306B34;
+}
+
+.coverimg{
+    padding: 174px 89px 152px 95px;
+    display: inline-block;
+}
+
+.text0{
+    font-size: 40px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    text-align: middle;
+    font-family: 'Times New Roman', Times, serif 
+}
+
+.text1{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mission{
+    width: 307px;
+    height: 396px;
+    margin-top: 277px;
+    display: inline-block;
+    vertical-align: top;  
+}
+
+ 
+
+/* ჩვენს შესახებ ნაწილი */
+
+article{
+    width: 1280px;
+}
+
+.aboutus{
+    font-size: 40px;
+    margin: 50px 481px 50px 527px;
+    width: 959px;    
+}
+
+.text2{
+    font-size: 22px;
+    padding:50px 137px 50px 130px; 
+    text-align: center;
+}
+
+
+button{
+    font-size: 12px;
+    margin: 50px 542px 33px 590px;
+    width: 148px;
+    height: 48px;
+    background-color: #36413E;
+    color: rgb(240, 239, 239);
+    display: inline-block;
+}
+
+/* ფუთერი */
+footer{
+    background-color: #306B34;
+    height: 68px;
+    width: 1280;
+}
+
+
+.footertext{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 18px 0px 23px 75px;
+    display: inline-block;
+}
+
+.copyright{
+    font-size: 12px;
+    color: white;
+    padding: 24px 110px 23px 725px;
+    display: inline-block;
+}
